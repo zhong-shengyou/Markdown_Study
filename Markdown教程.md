@@ -2,8 +2,9 @@
 ## <center><font face="楷体" size=5>众生游</font></center>
 ### 一、基本语法
 1. **标题**
-    #一级标题
-    ##二级标题
+    一个'#'为一级标题
+    两个'#'二级标题
+    依次进行下去
     ...一共六级还是七级标题
 2. **引用**
     > “>” 编辑这类教程文档很好用！
@@ -50,6 +51,8 @@
    [![pFZHwAe.jpg](https://imgse.com/)]
    -使用html语言实现调整图片的大小和位置功能
    <a href="https://imgse.com/i/pFZHwAe"><div align=center><img src="https://s11.ax1x.com/2024/01/23/pFZHwAe/jpg" alt="pFZHwAe.jpg border=""0" width="80%" height="60%"/></div></a>
+    - **以上是关于需要上传到Github中的操作**
+    - **关于上传图片到博客园,有更为简单的操作,我将在另一篇关于博客园写博客的教程中详细写**
    ### 二、其他操作
     - **如何导出PDF**
     先点出预览的界面,右击,选择 Open in Browser ,也就是在浏览器打开,再在浏览器里保存为文件放在电脑某个地方即可.之后随便找个软件将文件转为PDF即可
